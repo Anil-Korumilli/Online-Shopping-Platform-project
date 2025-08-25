@@ -1,0 +1,201 @@
+address_id,customer_id,street,city,state,zipcode,country
+1,171,76952 Wendy Springs,New Roger,New Jersey,89255,Guadeloupe
+2,45,15508 Roach Forks,Jonesstad,Maryland,16614,Qatar
+3,93,992 Ryan Inlet,Andrewsview,Maryland,67585,Saint Vincent and the Grenadines
+4,128,385 Thomas Terrace,Bennettberg,Idaho,77361,Nepal
+5,152,579 Katherine Lake Suite 506,East Kimberly,Rhode Island,41590,United Arab Emirates
+6,136,35962 Reeves Mountain Suite 379,West Carlos,New Jersey,66583,Jamaica
+7,142,3068 Robert Divide,East Aprilfort,Maine,05600,Tuvalu
+8,100,3259 Nguyen Plains,Port Lisa,North Dakota,89025,Heard Island and McDonald Islands
+9,18,373 Michelle Forest,Wileyland,Ohio,12016,Bermuda
+10,69,045 Welch Meadow Suite 154,West Philip,Rhode Island,32166,Togo
+11,91,751 Frederick Mill,Fostertown,Delaware,10935,Belize
+12,173,0302 Briggs Lodge Apt. 447,Stewartton,North Dakota,61505,Montenegro
+13,123,000 Newton Fall Suite 198,South Richard,Massachusetts,64904,Papua New Guinea
+14,77,02848 Christian Plaza Suite 050,Brownchester,North Carolina,43292,Niger
+15,148,412 Krista Gardens Apt. 808,Micheleburgh,Kansas,24559,El Salvador
+16,195,6331 Peter Turnpike Suite 790,West Christophertown,Tennessee,16819,Heard Island and McDonald Islands
+17,110,143 Olivia Key,New Travisport,Maine,76636,Tuvalu
+18,183,747 Martin Estates Suite 567,New Shannonport,Hawaii,22908,Western Sahara
+19,190,866 Catherine Lights,North Julianville,Vermont,25296,Monaco
+20,88,765 Justin Corner,West Davidview,Tennessee,18028,Palau
+21,82,28772 Warren Flats,Peggyhaven,Iowa,30815,United Kingdom
+22,104,84547 Kimberly Ford Suite 123,Valerieberg,Kentucky,58050,Rwanda
+23,24,24454 Jennifer Mountains,North Pamelastad,Oklahoma,23131,Jamaica
+24,179,3834 Robert Overpass Suite 025,South Ashleyview,New York,66555,Belize
+25,7,9949 Harrison Field Apt. 281,Jarviston,Iowa,23736,Georgia
+26,195,4883 Hinton Trafficway Suite 859,Lake Thomasmouth,Connecticut,93366,Netherlands
+27,13,288 Parker Circles,New Jeanetteshire,North Carolina,34906,Switzerland
+28,185,70461 Butler Street,Garciaport,Hawaii,49419,Dominican Republic
+29,61,4490 Irwin Station Suite 263,Murphyland,Colorado,11282,Bouvet Island (Bouvetoya)
+30,51,92677 Justin Valleys Suite 675,West Matthewchester,Louisiana,57693,Western Sahara
+31,27,91592 Tracy Track Suite 877,New Michael,North Dakota,93828,Iraq
+32,152,1940 Todd Via,West Richard,Wisconsin,08855,American Samoa
+33,139,707 Nichols Ford Apt. 960,Port Valerie,Texas,17266,Russian Federation
+34,73,06447 Danielle Greens Apt. 445,Lake Damon,West Virginia,85656,French Polynesia
+35,34,2547 Allison Islands,Randallport,Indiana,78359,Burkina Faso
+36,163,0525 Valdez Haven,New Kathrynside,Montana,24725,New Caledonia
+37,194,751 Alyssa Roads Suite 713,Jefferystad,Delaware,08022,Zambia
+38,161,95188 Cody View,Moralesmouth,Florida,55769,Iceland
+39,187,672 White Stream Apt. 172,Lake Crystalport,Virginia,39128,Trinidad and Tobago
+40,75,68733 Diaz Tunnel,New Michelleshire,Nebraska,16191,Luxembourg
+41,146,96283 Scott Avenue Apt. 591,Lopezville,Pennsylvania,91857,Colombia
+42,130,31328 Calhoun Glens,East Janice,Arkansas,64000,Rwanda
+43,70,731 Forbes Shore Apt. 494,South Randyshire,Florida,88791,French Polynesia
+44,61,275 Daniel Via,West Brandonmouth,New York,76766,Greenland
+45,199,48379 Amy Plains Apt. 755,South Denisefurt,Hawaii,54766,Guadeloupe
+46,176,246 Diaz Squares Suite 157,Mcculloughside,New Mexico,59420,Guinea
+47,155,003 Albert Drive Suite 402,Danielmouth,South Dakota,90326,Malta
+48,110,4536 Anderson Pine Apt. 420,Mcdonaldbury,Virginia,16656,Vietnam
+49,61,0822 Brandon Road,Katherinestad,Minnesota,97273,Micronesia
+50,156,00528 Powers Mission Suite 754,West Brandon,North Carolina,87368,Ethiopia
+51,88,9713 Candace Station,South Kelly,Iowa,42828,Christmas Island
+52,166,9826 Crane Terrace,Jamestown,Alaska,67330,Niger
+53,52,6253 William Squares,Pierceland,Pennsylvania,46083,Jordan
+54,86,093 Giles Squares Apt. 209,South Matthewville,Washington,97326,United States of America
+55,193,817 James Flats Suite 309,Jeffersonview,North Carolina,69321,Aruba
+56,192,9670 Turner Avenue Suite 496,Schaeferchester,Montana,96057,Gambia
+57,37,450 Aguilar Fork Apt. 626,East Eileen,Tennessee,53756,Congo
+58,68,7868 Sylvia Mountains Suite 384,Timothybury,Arizona,07750,Tokelau
+59,140,4628 Lewis Wells Apt. 859,East Michaelville,Arizona,30241,Italy
+60,144,70176 Jessica Heights Apt. 495,Odonnellport,Virginia,57689,Barbados
+61,179,01466 Rush Divide Apt. 554,New Margaret,Colorado,05694,Ireland
+62,142,550 Lindsay Stream Apt. 425,Lake Heather,Arkansas,80508,Chile
+63,143,261 Allen Course Suite 110,New Christophertown,New York,87958,Sri Lanka
+64,32,26406 Baker Course,Jacksonburgh,Nevada,08487,Martinique
+65,113,0308 Rodriguez Hills Apt. 997,Herreraberg,Wisconsin,16649,Togo
+66,140,3777 Henderson Forge,Robinland,Mississippi,66416,Wallis and Futuna
+67,33,9391 Hunt Route Apt. 290,Port Natashaside,Minnesota,79917,Sao Tome and Principe
+68,108,64356 Garcia Via,Scotttown,Oklahoma,30915,Bouvet Island (Bouvetoya)
+69,52,4383 Smith Trail,New Richardtown,Illinois,37432,Guinea-Bissau
+70,166,6998 Brooks Glen Apt. 303,Oliviaport,South Carolina,94775,Martinique
+71,33,7522 Young Harbor Suite 692,East Patriciabury,Delaware,76083,Burkina Faso
+72,49,53075 Jose Lakes Apt. 179,North Alexanderland,Wisconsin,52356,British Virgin Islands
+73,184,755 Stephen Squares,West Robert,Wisconsin,86855,Rwanda
+74,57,68940 Hart Field Apt. 443,Port Kyle,Texas,61880,Trinidad and Tobago
+75,33,7948 Rodgers Station,Jillianville,Delaware,30101,Saint Pierre and Miquelon
+76,111,99970 Dennis Glen Suite 044,Kerrhaven,Arizona,06314,Gabon
+77,83,19006 Carrie Flats Suite 109,Stephensfort,New Mexico,62647,Heard Island and McDonald Islands
+78,167,9779 Andrew Knoll Apt. 615,Sonyatown,Iowa,53607,Zimbabwe
+79,64,470 Gallagher Row Apt. 866,South Brian,Arizona,94189,Western Sahara
+80,27,84590 Gaines Ford Suite 598,Lake Tracy,Florida,03469,Solomon Islands
+81,193,9036 David Alley Suite 877,Briannashire,West Virginia,29114,Luxembourg
+82,16,746 Ball Cliffs Suite 104,East Annborough,Oklahoma,78075,Albania
+83,185,8908 William Manor,Port Thomasland,Illinois,76831,Azerbaijan
+84,43,371 Vaughan Path Suite 388,South Susanland,New York,49208,Kiribati
+85,188,7347 Sanchez Fork,Rachelshire,Wisconsin,14892,France
+86,30,75232 Arroyo Cape Apt. 958,Evansview,Georgia,31358,Portugal
+87,10,7532 Sharp Mountain,Irwinmouth,New Jersey,73497,Lao People's Democratic Republic
+88,121,88545 Guzman Viaduct,West Andre,Delaware,51348,Panama
+89,15,759 Odonnell Valley,Daviston,Louisiana,08370,Botswana
+90,193,3824 Simmons Orchard,South Emilytown,Oklahoma,96234,Belize
+91,3,87299 Joshua Shoals,Austinport,Oklahoma,68017,Saint Lucia
+92,168,1455 Hall Fields,Port Erin,Illinois,08781,Cote d'Ivoire
+93,176,178 Stewart Ranch,Zacharyborough,New Jersey,52716,Israel
+94,116,8580 Natalie Fields Suite 077,West Bonnieborough,New York,36868,Ireland
+95,98,138 Figueroa Mountains Apt. 490,Bakertown,Michigan,49102,Saint Barthelemy
+96,7,848 Romero Manors,North Michaelside,Utah,47622,Indonesia
+97,13,0913 Ronald Alley Apt. 081,Brownstad,Alaska,30877,Maldives
+98,26,029 Heather Avenue,Nelsontown,Delaware,99616,France
+99,160,98390 Henderson Grove Apt. 307,West Amber,Texas,58695,Anguilla
+100,110,97164 Jesus Hills,North Amanda,South Carolina,62197,Albania
+101,75,59714 Mendoza Mountain Apt. 918,West Davidshire,Alabama,39437,Turkmenistan
+102,100,96202 Kyle Burgs Apt. 103,Port Janetshire,South Carolina,40485,Greece
+103,60,52282 Espinoza Pines Suite 830,Port Heatherville,Wisconsin,28032,Fiji
+104,31,197 Parker Pike Apt. 245,Rachelfurt,Mississippi,53654,American Samoa
+105,69,381 Nicole Harbor Suite 424,West Cindyhaven,Hawaii,16193,Sweden
+106,9,899 Santos Springs Suite 074,Holmesberg,Nevada,96988,Uganda
+107,200,27805 David Causeway,Greenton,Mississippi,83815,Syrian Arab Republic
+108,74,0041 Tiffany Mountain,West Michael,Georgia,79565,Czech Republic
+109,7,008 Kristen Inlet Apt. 790,Grayland,Arkansas,45683,Zambia
+110,168,690 Adam Mall Suite 988,Johnsonhaven,Delaware,95882,Samoa
+111,62,028 Timothy Glens,Martinbury,Hawaii,77888,Qatar
+112,86,567 Todd Crescent,West Davidview,California,50843,Rwanda
+113,112,28706 Williams Hills,Russoshire,Arizona,54289,Seychelles
+114,43,618 Kelly Inlet,Lake Madison,Rhode Island,44201,United States Minor Outlying Islands
+115,198,744 Stafford Passage Suite 955,West Mark,Iowa,28801,Cayman Islands
+116,81,87427 Wendy Squares,Port Tiffanyfort,Vermont,04978,Seychelles
+117,29,8036 Collin Underpass,Erikamouth,South Dakota,60382,Guinea-Bissau
+118,192,8927 Mary Plaza,Middletonview,Wyoming,16507,French Guiana
+119,103,172 Ryan Curve,Williamsfurt,Kentucky,26959,Netherlands
+120,42,5870 Gray Fields Apt. 526,West Cheryl,Rhode Island,53523,Togo
+121,37,73422 Michael Dale Suite 147,Henrybury,Nevada,73326,Norway
+122,195,57648 Thomas Locks,East Deanna,Maine,62786,Fiji
+123,173,4133 Butler Estate,Christophershire,Colorado,36017,Iceland
+124,164,622 Johnny Path,Jonesberg,Hawaii,31257,Honduras
+125,70,5838 Erin Lights Apt. 350,Zacharymouth,Florida,09068,Honduras
+126,5,7040 Sheila Underpass Suite 812,West Molly,Rhode Island,16665,Cuba
+127,129,6940 Shelton Flats Apt. 585,North Annette,Alabama,16993,Cocos (Keeling) Islands
+128,184,928 Teresa Inlet Suite 262,Sarahmouth,Maryland,34479,Guadeloupe
+129,35,50161 Rojas Squares Suite 336,Elizabethburgh,Minnesota,04796,Mali
+130,178,295 Isaac Mountain Suite 740,New Kristen,Mississippi,41301,Luxembourg
+131,115,872 Evans Valleys,New Gregoryland,Delaware,29364,Palau
+132,116,31692 Jerry Ranch Apt. 101,Gouldton,Maine,11959,Saint Vincent and the Grenadines
+133,23,5857 Robert Track,Morganshire,California,10830,Heard Island and McDonald Islands
+134,141,7596 Morgan Freeway Apt. 570,Davismouth,Kentucky,50435,French Guiana
+135,83,9924 Romero Plain Suite 614,New Stephen,Florida,41329,Argentina
+136,172,06446 Gray Drive,Smithburgh,Oklahoma,66257,Algeria
+137,39,8297 Reed Tunnel Apt. 076,West Franciscoland,Maine,18680,Antarctica (the territory South of 60 deg S)
+138,21,52337 Marquez Gardens,West Misty,South Dakota,63605,Samoa
+139,64,4330 Maria Landing,Cynthiamouth,New York,17832,Romania
+140,33,83474 Kelly Course Suite 798,New Amber,Connecticut,92938,Greece
+141,125,82176 Stuart Park,East Amanda,Wisconsin,16956,Pitcairn Islands
+142,94,95782 Brown Wall,Lake Jonathan,Maryland,50367,Colombia
+143,165,24617 Ball Way,Lauramouth,Texas,51130,French Guiana
+144,15,3147 Kevin Hollow,Lawrencestad,Wisconsin,74976,Philippines
+145,61,32163 Goodman Tunnel Apt. 207,Snyderbury,Montana,39074,Tuvalu
+146,123,2158 Andrea Prairie,Lake Troy,Maryland,88067,Botswana
+147,167,76996 Gamble Parkways,Robertborough,North Carolina,72934,Cyprus
+148,97,0979 Rodriguez Mews,West Kyleport,Indiana,17289,Afghanistan
+149,64,864 Nathan Islands,Myersmouth,West Virginia,51231,Zimbabwe
+150,129,87272 Moore Fork Apt. 590,East Tiffany,Utah,52202,Nigeria
+151,176,002 Caitlin Dam Apt. 342,Lake Laurie,North Dakota,88804,Cote d'Ivoire
+152,46,33164 Wagner Walks,West Laurieton,Tennessee,62507,Brazil
+153,139,9646 Escobar Drive,Colleenborough,Kentucky,72152,Syrian Arab Republic
+154,147,28334 Michelle Park,West Alicia,California,77904,Lebanon
+155,22,830 Cody Stream,Lorimouth,Kentucky,19596,Turkmenistan
+156,49,236 Brianna Forge,Port Kari,Oregon,79309,Netherlands Antilles
+157,151,17610 Robert Place,Staceyfort,Michigan,84182,Puerto Rico
+158,111,283 Edward Islands Suite 528,East Kaitlintown,New Mexico,68260,Tanzania
+159,78,2441 Amanda Mount Suite 453,Higginschester,Georgia,78588,Gambia
+160,165,1054 Justin Valleys,Lake Robertville,West Virginia,17061,Mali
+161,90,281 Rodriguez Green,East Dawn,Illinois,06706,Kazakhstan
+162,51,317 Joan Port,Lopezville,Nevada,09686,Algeria
+163,175,9528 Thomas Ridge,Sherrystad,North Dakota,97045,Guatemala
+164,180,95485 Mark Loop Suite 807,Zacharymouth,Wyoming,63670,Mexico
+165,165,3298 Rose Prairie Apt. 138,New Cody,North Carolina,37243,Bosnia and Herzegovina
+166,123,240 Ayala Passage Apt. 043,Dianaside,Hawaii,02471,Estonia
+167,143,096 Bradley Inlet,Port Robertstad,Hawaii,14666,Suriname
+168,2,84317 Leslie Island,Lake Michaelmouth,Massachusetts,20592,Chad
+169,47,52019 Austin Street Suite 978,East Nancyville,Maine,42065,Jersey
+170,163,6460 Mann Passage,West Jenniferstad,North Dakota,22414,Uruguay
+171,34,22828 Thompson Skyway Apt. 876,South Richard,Idaho,79153,Cambodia
+172,3,3736 Julie Trail Suite 927,Hermanfurt,Florida,10876,Reunion
+173,4,42139 Bailey Brook,Danielsbury,New Hampshire,16275,Congo
+174,150,788 Jeffrey Valleys Suite 388,North Paigeberg,Arizona,44939,Iran
+175,153,84337 Sarah Lake,Mackhaven,Colorado,07888,Libyan Arab Jamahiriya
+176,30,80640 Campbell Fall Suite 006,Joshuafurt,Missouri,45017,Zambia
+177,2,07861 Yang Crossroad,New Brittany,Texas,64884,French Polynesia
+178,159,64822 Chelsea Valleys,North Andrewville,Maine,92815,Oman
+179,56,4466 Ball Union Apt. 615,Lake Nicole,Iowa,58505,Colombia
+180,126,31649 King Ways Apt. 702,Tinaberg,North Dakota,43934,Svalbard & Jan Mayen Islands
+181,198,61563 Fields Canyon,Port Erinmouth,Florida,59780,Brazil
+182,58,87494 West Avenue,Lake Edwin,Texas,02475,Austria
+183,196,24465 Wood Mountain,East Michaelborough,New Hampshire,53989,China
+184,44,61697 Ashley Groves Apt. 128,Lake Lori,Oregon,65017,Burundi
+185,177,505 Diana Union,South Lauren,Oklahoma,45245,Saint Helena
+186,154,39420 Wilkinson Valleys Apt. 296,Johnchester,Pennsylvania,98662,Peru
+187,91,6581 Morgan Wall,Coreybury,Montana,78161,Faroe Islands
+188,115,67494 Walsh Radial Apt. 248,North Joshuaside,New Jersey,41673,Mali
+189,139,887 Miles Squares Apt. 960,Port Billyberg,Alabama,27731,Puerto Rico
+190,85,7651 Kristie Groves Suite 779,Jensenview,Indiana,92579,Burundi
+191,83,37811 Hill Manors Suite 550,Chambersmouth,Oregon,80928,Saint Pierre and Miquelon
+192,140,98022 Figueroa Village Apt. 479,West Kevin,Hawaii,25956,Bulgaria
+193,163,2328 Kathryn Coves,Lamtown,Louisiana,06987,Grenada
+194,76,47494 Sampson Mews Apt. 483,Elizabethborough,North Dakota,56790,Belarus
+195,176,435 Anderson Track,Kristinaburgh,Rhode Island,13070,Liberia
+196,134,9431 Hernandez Springs,Port Annette,South Dakota,37670,Germany
+197,44,6709 Zamora Springs Apt. 207,Longborough,Nebraska,20356,Saudi Arabia
+198,148,2375 Franklin Mount,Port Stephanie,Pennsylvania,52795,Liberia
+199,176,029 Michaela Mountain,North Amandamouth,Nebraska,74874,Israel
+200,109,33776 Jason Lock,Hughesstad,Tennessee,04237,Ethiopia
